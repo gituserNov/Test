@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Books>
+<Book>
+ <isbn>9781593275846</isbn>
+ <title>Eloquent JavaScript, Second Edition</title>
+ <author>Marijn Haverbeke</author>
+ <publish_date>2014-12-14</publish_date>
+ <publisher>No Starch Press</publisher>
+ <numOfPages>472</numOfPages>
+</Book>
+<Book>
+ <isbn>1</isbn>
+ <title>Eloquent JavaScript, Second Edition</title>
+ <author>Marijn Haverbeke</author>
+ <publish_date>2014-12-14</publish_date>
+ <publisher>No Starch Press</publisher>
+ <numOfPages>600</numOfPages>
+</Book>
+</Books>
